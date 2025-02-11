@@ -1,1 +1,1 @@
-Baffea (fork of Luanti)
+Baffea
